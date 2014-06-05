@@ -1,3 +1,4 @@
+
 <h1>Java Blog Aggregator</h1>
 
 <p>Project <a href="http://www.topjavablogs.com" target="_blank" title="Top Java Blogs">Top Java Blogs</a> uses this system to aggregate latest news from Java world.</p>
